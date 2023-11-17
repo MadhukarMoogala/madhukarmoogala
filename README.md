@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://adndevblog.typepad.com/autocad/Madhukar-Moogala.html](https://adndevblog.typepad.com/autocad/Madhukar-Moogala.html)  
 
-- 💬 Ask me about **AutoCAD ObjectARX and Forge Design Automation**  
+- 💬 Ask me about **AutoCAD ObjectARX and APS Design Automation**  
 
 - 📫 How to reach me **madhukar.moogala@autodesk.com**  
 
